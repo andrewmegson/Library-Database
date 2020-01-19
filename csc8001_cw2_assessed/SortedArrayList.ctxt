@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=e
+comment0.target=boolean\ add(java.lang.Comparable)
+comment0.text=\r\n\ Method\ to\ add\ element\ to\ sorted\ arraylist\r\n\ \r\n\ @param\ takes\ an\ elemet\ of\ type\ e\ to\ be\ added\ to\ sorted\ arraylist\r\n\ \r\n
+numComments=1
